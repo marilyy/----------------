@@ -26,3 +26,7 @@ body {
     background-color: #e3ece7;
 }
  
+h1 {
+    text-align: center;
+    margin-top: 60px;
+}
